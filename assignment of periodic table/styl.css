@@ -1,0 +1,51 @@
+body{
+    background-color:darkgreen;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+h1{
+    color: white;
+    text-shadow: 5px 5px 5px black;
+}
+h1{
+    text-align: center;
+}
+.period1{
+    border: 2px solid black;
+    width: 60px;
+    height: 100px;
+    margin-top: 5px;
+    background-color: red;
+}
+.period1:hover{
+    background-color: goldenrod;
+    box-shadow: 5px 6px 3px 3px black;
+}
+.number{
+    font-size: 15px;
+    line-height: 0.5px;
+}
+.symbol{
+    font-size: 20px;
+    text-align: center;
+}
+.name{
+    font-size: 12px;
+    text-align: center;
+
+}
+.empty{
+    background-color: transparent;
+}
+.period2{
+    /* border:2px solid black; */
+    /* width: 60px; */
+    /* height: 100px; */
+    /* margin-top: 5px; */
+/* display: flex; 
+    flex-direction: column; */
+
+}
